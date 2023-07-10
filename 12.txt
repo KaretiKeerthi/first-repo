@@ -1,3 +1,6 @@
 filefolder
+<<<<<<< HEAD
 1234
 
+=======
+>>>>>>> parent of 671c635 (modified 12.txt file in master)
