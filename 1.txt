@@ -1,2 +1,3 @@
-learning git
+learning git yes
 checking where this modified will go, like to first repo or to devops1
+merge conflict
